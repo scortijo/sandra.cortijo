@@ -14,7 +14,7 @@ We recently discussed the need to define how inter-plant variability responds to
 
 In this project we study inter-plant variability for several phenotypes in response to changes in the environment. Using the natural variation present in accessions of *Arabidopsis thaliana*, we can look for genetic determinants of this inter-plant variability in different environmental conditions.
 
-<img style="float: left;" src="../images/GWAS_variability.pdf" alt="" width="80%"/>   
+<img style="float: left;" src="../images/GWAS_variability.jpg" alt="" width="80%"/>   
 Example of a Manhattan plot from a GWAS study of inter-plant variability measured for more than a hundred accessions of *Arabidopsis thaliana*.
 
 ### Team members working on this project
