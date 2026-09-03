@@ -1,5 +1,6 @@
 title: Sandra Cortijo
 description: 
 show_downloads: false
+theme: jekyll-theme-time-machine
 github:
   is_project_page: false
