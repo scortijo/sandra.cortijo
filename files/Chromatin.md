@@ -7,12 +7,15 @@ Based on previous observation in [Cortijo et al., 2019](https://link.springer.co
 
 ![](../images/Cortijo_smb_chromatin.png){width=75%}
 
-Figure from Cortijo et al., 2019 showing the distribution of the chromatin mark H3K27me3 and the histone variant H2A.Z at genes with a high inter-plant variability (HVG in blue), genes with a low level of inter-plant variability (LVG in green) and random genes (in grey).
+Figure from [Cortijo et al., 2019](https://link.springer.com/article/10.15252/msb.20188591) showing the distribution of the chromatin mark H3K27me3 and the histone variant H2A.Z at genes with a high inter-plant variability (HVG in blue), genes with a low level of inter-plant variability (LVG in green) and random genes (in grey). We can see that genes with a high level of inter-plant gene expression variability have a specific chromatin environment: high levels of H3K27me and H2A.Z. The project thus aims at defining the role of H3K27me and H2A.Z in controlling the level of inter-plant gene expression variability.
 
 
 
 ### Global approaches 
 
+We use transcriptomic and epigenomic approaches to analyse the role of chromatin in regulating 
+
+Combined with classical genetics approaches and imaging, 
 
 
 ### Team members working on this project
@@ -33,7 +36,7 @@ Figure from Cortijo et al., 2019 showing the distribution of the chromatin mark 
 
 <br>
 
-Previous team members involved: 
+*Previous team members involved:*
 - Alexandre Vettor (Research Engineer)
 - Oscar Main (Master student)
 - Kenneth Schöneck (Master student)
