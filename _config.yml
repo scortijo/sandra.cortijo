@@ -1,4 +1,5 @@
 title: Sandra Cortijo
 description: 
 show_downloads: false
+use_repository_button: false
 theme: jekyll-theme-hacker
