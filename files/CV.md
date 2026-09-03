@@ -41,9 +41,10 @@ Supervisors: Vincent Colot and François Roudier
 <br>
 
 ## Scientific leadership and management
-Since 
+- Since 2015 I supervised 3 PhD students, 1 research technician and 
 
 <br>
 
 
 
+[Back to main page](https://scortijo.github.io/sandra.cortijo/)
