@@ -29,7 +29,7 @@ Combined with classical genetics approaches and imaging, this gives us the power
   <div>
     <p> <br>
     <br>
-     The main person working on this project is   
+     The main person working on this project is   \n
      Charlotte Lecuyer, a PhD student 
      <br>
      <br> </p>
