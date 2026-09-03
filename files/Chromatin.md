@@ -7,7 +7,7 @@ Based on previous observation in [Cortijo et al., 2019](https://link.springer.co
 
 ![](../images/Cortijo_smb_chromatin.png)
 
-Figure from Cortijo et al., 2019 showing the distribution of the chromatin mark H3K27me3 and the histone variant H2A.Z at 
+Figure from Cortijo et al., 2019 showing the distribution of the chromatin mark H3K27me3 and the histone variant H2A.Z at genes with a high inter-plant variability (HVG in blue), genes with a low level of inter-plant variability (LVG in green) and random genes (in grey).
 
 
 
@@ -22,7 +22,11 @@ Figure from Cortijo et al., 2019 showing the distribution of the chromatin mark 
     <img src="../images/Charlotte_lecuyer.png" width="100" alt="">
   </div>
   <div>
-    <p> The main person working on this project is Charlotte Lecuyer, a PhD student </p>
+    <p> <br>
+    <br>
+     The main person working on this project is Charlotte Lecuyer, a PhD student 
+     <br>
+     <br> </p>
   </div>
 </div>
 
