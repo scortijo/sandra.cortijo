@@ -13,7 +13,7 @@
 </div>
 
 
-To know more about me, see my [short CV](files/CV.Rmd)
+To know more about me, see my [short CV](files/CV.md)
 
 
 <br>
