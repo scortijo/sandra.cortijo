@@ -4,6 +4,8 @@
 
 blabla
 
+![Sandra Cortijo](images_SandraCortijo_photo.jpg)
+
 <br>
 
 ## Researchs projects
