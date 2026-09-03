@@ -20,7 +20,7 @@ To know more about me, see my [short CV](files/CV.md)
 
 ## Ongoing researchs projects
 
-PLoS paper
+PLoS paper (include link to SEEM seminar)
 
 Chromatin
 
