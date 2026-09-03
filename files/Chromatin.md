@@ -10,7 +10,7 @@ Based on previous observation in [Cortijo et al., 2019](https://link.springer.co
     <img src="images/Cortijo_smb_H3K27me3.png" width="200" alt="">
   </div>
   <div>
-    <p> Figure from [Cortijo et al., 2019](https://link.springer.com/article/10.15252/msb.20188591) showing  .</p>
+    <p> Figure from Cortijo et al., 2019 showing  .</p>
   </div>
 </div>
 
