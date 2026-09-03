@@ -31,6 +31,7 @@ Supervisors: Vincent Colot and François Roudier
 
 
 ## Fundings 
+Since my recruitment at the CNRS, I obtained 500k€ to fund my research:
 **2026**    Young researcher breakthrough, National French Research Agency (ANR), **75k€**  
 **2022**    Young researcher award, National French Research Agency (ANR), **320k€**  
 **2021**    Stepping stone to ERC grant, I-Site (Montpellier), **105k€**  
@@ -42,7 +43,7 @@ Supervisors: Vincent Colot and François Roudier
 
 ## Scientific leadership and institutional responsibilities
 **Since 2020** I supervised 2 PhD students, 1 research technician as well as 10 master and bachelor students  
-**Since 2025**    Elected member of the CNRS scientific committee, section 25 (plants): recruitment of new CNRS researchers, evaluation of colleagues   
+**Since 2025**    Elected member of the CNRS scientific committee,  [section 25 (plants)](https://www.section25.cnrs.fr/): recruitment of new CNRS researchers, evaluation of colleagues   
 **Since 2026** I developed the Genomics, Bioinformatics and Bio-analysis [Gen2Bio](https://www1.montpellier.inra.fr/wp-inra/ipsim/en/platform/gen2bio/) workshop at my institute.
 
 <br>
