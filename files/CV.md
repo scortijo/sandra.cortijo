@@ -1,6 +1,6 @@
 
 
-## Sandra Cortijo CV
+# Sandra Cortijo CV
 [ORCID page](https://orcid.org/0000-0003-3291-6729)
 
 
@@ -8,7 +8,7 @@
 
 ## Current position
 
-**2020-now** emsp 	Researcher (tenured), CNRS, IPSiM, Montpellier, France
+**2020-now**      	Researcher (tenured), CNRS, IPSiM, Montpellier, France
 
 
 <br>
