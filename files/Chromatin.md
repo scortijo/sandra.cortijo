@@ -1,4 +1,6 @@
+[Back to main page](https://scortijo.github.io/sandra.cortijo/)
 
+<br>
 
 ## The role of chromatin in controlling the level of inter-plant variability
 
@@ -43,4 +45,6 @@ Combined with classical genetics approaches and imaging, this gives us the power
 - Oscar Main (Master student)
 - Kenneth Schöneck (Master student)
 
+<br>
 
+[Back to main page](https://scortijo.github.io/sandra.cortijo/)
