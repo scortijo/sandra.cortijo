@@ -27,7 +27,7 @@ Figure from Cortijo et al., 2019 showing the distribution of the chromatin mark 
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="../images/Cortijo_smb_H3K27me3.jpg" width="200" alt="">
+    <img src="../images/Charlotte_lecuyer.png" width="100" alt="">
   </div>
   <div>
     <p> The main person working on this project is Charlotte Lecuyer, a PhD student </p>
