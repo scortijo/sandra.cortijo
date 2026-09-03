@@ -18,13 +18,24 @@ To know more about me, see my [short CV](files/CV.md)
 
 <br>
 
-## Ongoing researchs projects
+## Ongoing research projects
 
-PLoS paper (include link to SEEM seminar)
+Our research projects focus on identifying the factors that regulate inter-plant variability and exploring its functional role. We currently have 3 projects ongoing:
 
-Chromatin
+<br>
 
-Response to environment
+### Regulation of inter-plant variability for genes involved in nitrate nutrition
+
+We found that one of the main transporters of nitrate, *NRT2.1*, has a high level of inter-plant gene expression variability. The aim of this project is to understand how the level of *NRT2.1* gene expression inter-plant variability is controlled, when differences are established between plants and what are the consequences of this variability. 
+You can find a more detailed description of the project [here](files/NRT2.md)
+
+<br>
+
+### The role of chromatin in controlling the level of inter-plant variability
+
+<br>
+
+### Influence of the environment on the level of inter-plant variability
 
 
 <br>
