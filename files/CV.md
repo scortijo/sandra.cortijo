@@ -1,6 +1,6 @@
 
 
-# Sandra Cortijo CV
+# Sandra Cortijo, short CV
 [ORCID page](https://orcid.org/0000-0003-3291-6729)
 
 
