@@ -26,17 +26,22 @@ Our research projects focus on identifying the factors that regulate inter-plant
 
 ### Regulation of inter-plant variability for genes involved in nitrate nutrition
 
-We found that one of the main transporters of nitrate, *NRT2.1*, has a high level of inter-plant gene expression variability. The aim of this project is to understand how the level of *NRT2.1* gene expression inter-plant variability is controlled, when differences are established between plants and what are the consequences of this variability. 
+We found that one of the main transporters of nitrate, *NRT2.1*, has a high level of inter-plant gene expression variability. The aim of this project is to understand how the level of *NRT2.1* gene expression inter-plant variability is controlled, when differences are established between plants and what are the consequences of this variability.   
 You can find a more detailed description of the project [here](files/NRT2.md)
 
 <br>
 
 ### The role of chromatin in controlling the level of inter-plant variability
 
+Based on previous observation in [Cortijo et al., 2019](https://link.springer.com/article/10.15252/msb.20188591), the ail of this project is to explore the role of chromatin in regulating the level of inter-plant gene expression variability.  
+You can find a more detailed description of the project [here](files/Chromatin.md)
+
 <br>
 
 ### Influence of the environment on the level of inter-plant variability
 
+While inter-plant variability is now recognized as widespread, observed across phenotypes such as plant size, flowering time, gene expression, and the abundance of proteins and metabolites, its response to environmental changes remains largely unexplored. The aim of this project is to characterize and understand the response of inter-plant variability to changes in the environment.  
+You can find a more detailed description of the project [here](files/Environment.md)
 
 <br>
 
@@ -53,12 +58,12 @@ I developed 2 shiny applications to explore results from papers:
 
 ## Recent publications
 
-Here are the most recent publications
+Here are the most recent publications. For a full list of publications, look at my [ORCID page](https://orcid.org/0000-0003-3291-6729)
 
 <br>
 
 ## Contact me :
-If you want to apply for a position, would like to collaborate or have any question, you can [contact me](mailto:sandra.cortijo@cnrs.fr)
+If you want to apply for a position, would like to collaborate or have any question, you can contact me at `sandra.cortijo (at) cnrs (point) fr`
 
 <br>
 
