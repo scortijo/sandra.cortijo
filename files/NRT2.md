@@ -4,7 +4,10 @@
 
 ## Regulation of inter-plant variability for genes involved in nitrate nutrition
 
+We found that one of the main transporters of nitrate, *NRT2.1*, has a high level of inter-plant gene expression variability. 
 
+
+The aim of this project is to understand how the level of *NRT2.1* gene expression inter-plant variability is controlled, when differences are established between plants and what are the consequences of this variability.   
 
 <br>
 
@@ -22,11 +25,7 @@ The main person in charge of the project is currently Sandra Cortijo
 The team members who were involved in the project are:
 - Charlotte Lecuyer (PhD student)
 - Alexandre Vettor (Research Engineer)
-- Mona Mazouzi
-
-
-Charlotte as working on the project
-And Alex as previously working on the project
+- Mona Mazouzi (Bachelor student)
 
 
 
