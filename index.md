@@ -58,7 +58,11 @@ I developed 2 shiny applications to explore results from papers:
 
 ## Recent publications
 
-Here are the most recent publications. For a full list of publications, look at my [ORCID page](https://orcid.org/0000-0003-3291-6729)
+Here are the most recent publications. For a full list of publications, look at my [ORCID page](https://orcid.org/0000-0003-3291-6729).  
+
+- Lecuyer C, Vettor A, Fizames C, Javot H, Martin A, Mazouzi M, Montané M.-H., **Cortijo S**. Establishment and maintenance of NRT2.1 inter-individual variability in plants. PLoS Genet. 2025 Dec;21: e1011984. [doi:10.1371/journal.pgen.1011984](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011984)  
+- Coroenne C, Lecuyer C, Martin A, Cortijo S. Individual variability in plants: From intra- to inter-individual variability and its response to the environment. Curr Opin Plant Biol. 2025 Dec;89: 102833. [doi:10.1016/j.pbi.2025.102833](https://www.sciencedirect.com/science/article/pii/S1369526625001475)  
+- Cortijo S, Aydin Z, Ahnert S, Locke JC. Widespread inter-individual gene expression variability in Arabidopsis thaliana. Mol Syst Biol. 2019 Jan 24;15(1):e8591.  doi:10.15252/msb.20188591](https://link.springer.com/article/10.15252/msb.20188591)   
 
 <br>
 
