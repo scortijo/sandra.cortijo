@@ -18,9 +18,13 @@ To know more about me, see my [short CV](files/CV.md)
 
 <br>
 
-## Researchs projects
+## Ongoing researchs projects
 
-blabla
+PLoS paper
+
+Chromatin
+
+Response to environment
 
 
 <br>
@@ -28,24 +32,22 @@ blabla
 
 ## Tools
 
+I developed 2 shiny applications to explore results from papers:  
 
-blabla
+- [Aranoisy](https://jlgroup.shinyapps.io/AraNoisy/), to follow the level of inter-plant variability in gene expression for your gene of interest in *Arabidopsis thaliana* throughout a day/night cycle.  
 
-<br>
+- [Variability Network](https://jlgroup.shinyapps.io/VariabilityNetwork/) to examine gene expression networks inferred using inter-plant variability in gene expression.  
 
-
-## Teaching
-
-
-<br>
 
 
 ## Recent publications
 
+Here are the most recent publications
+
 <br>
 
 ## Contact me :
-[Sandra Cortijo](mailto:sandra.cortijo@cnrs.fr)
+If you want to apply for a position, would like to collaborate or have any question, you can [contact me](mailto:sandra.cortijo@cnrs.fr)
 
 <br>
 
