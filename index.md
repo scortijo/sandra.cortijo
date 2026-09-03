@@ -2,10 +2,6 @@
 
 ## About me
 
-I am a molecular geneticist and work on the role and regulation of inter-plant variability. 
-Inter-plant variability 
-
-<br>
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
@@ -16,8 +12,8 @@ Inter-plant variability
   </div>
 </div>
 
-<img src="images/SandraCortijo_photo.jpg" width="200">
 
+To know more about me, see my [short CV](files/CV.Rmd)
 
 
 <br>
