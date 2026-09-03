@@ -8,7 +8,7 @@
 
 ## Current position
 
-*2020-now* &emsp	Researcher (tenured), CNRS, IPSiM, Montpellier, France
+**2020-now** emsp 	Researcher (tenured), CNRS, IPSiM, Montpellier, France
 
 
 <br>
