@@ -5,7 +5,7 @@
 
 Based on previous observation in [Cortijo et al., 2019](https://link.springer.com/article/10.15252/msb.20188591), the aim of this project is to explore the role of chromatin in regulating the level of inter-plant gene expression variability.  
 
-[](files/Cortijo_smb_chromatin.jpg)
+[](images/Cortijo_smb_chromatin.jpg)
 
 
 
@@ -25,13 +25,21 @@ Based on previous observation in [Cortijo et al., 2019](https://link.springer.co
 
 ### Team members working on this project
 
-The main person working on this project is 
+<div style="clear: both;">
+  <div style="float: left; margin-right 1em;">
+    <img src="images/Cortijo_smb_H3K27me3.jpg" width="200" alt="">
+  </div>
+  <div>
+    <p> The main person working on this project is Charlotte Lecuyer, a PhD student </p>
+  </div>
+</div>
+
 
 <br>
 
-
-Include Charlotte as working on the project
-And Alex as previously working on the project
-
+Previous team members involved: 
+- Alexandre Vettor (Research Engineer)
+- Oscar Main (Master student)
+- Kenneth Schöneck (Master student)
 
 
