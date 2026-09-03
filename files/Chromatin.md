@@ -7,20 +7,13 @@ Based on previous observation in [Cortijo et al., 2019](https://link.springer.co
 
 <div style="clear: both;">
   <div style="float: left; margin-right 1em;">
-    <img src="images/Cortijo_smb_H3K27me3" width="200" alt="">
+    <img src="images/Cortijo_smb_H3K27me3.png" width="200" alt="">
   </div>
   <div>
     <p> Figure from [Cortijo et al., 2019](https://link.springer.com/article/10.15252/msb.20188591) showing  .</p>
   </div>
 </div>
-<div style="clear: both;">
-  <div style="float: left; margin-right 1em;">
-    <img src="images/Cortijo_smb_H2AZ.png" width="200" alt="">
-  </div>
-  <div>
-    <p> Figure from [Cortijo et al., 2019](https://link.springer.com/article/10.15252/msb.20188591) showing  .</p>
-  </div>
-</div>
+
 
 
 
