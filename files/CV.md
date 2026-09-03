@@ -42,7 +42,7 @@ Since my recruitment at the CNRS, I obtained 500k€ to fund my research:
 <br>
 
 ## Scientific leadership and institutional responsibilities
-**Since 2020** I supervised 2 PhD students, 1 research technician as well as 10 master and bachelor students  
+**Since 2020** I supervised 2 PhD students, 1 research engineer as well as 10 master and bachelor students  
 **Since 2025**    Elected member of the CNRS scientific committee,  [section 25 (plants)](https://www.section25.cnrs.fr/): recruitment of new CNRS researchers, evaluation of colleagues   
 **Since 2026** I developed the Genomics, Bioinformatics and Bio-analysis [Gen2Bio](https://www1.montpellier.inra.fr/wp-inra/ipsim/en/platform/gen2bio/) workshop at my institute.
 
