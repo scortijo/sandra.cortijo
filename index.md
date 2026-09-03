@@ -57,7 +57,7 @@ I developed 2 shiny applications to explore results from papers:
 
 - [Variability Network](https://jlgroup.shinyapps.io/VariabilityNetwork/) to examine gene expression networks inferred using inter-plant variability in gene expression.  
 
-
+<br>
 
 ## Recent publications
 
