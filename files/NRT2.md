@@ -4,15 +4,15 @@
 
 ## Regulation of inter-plant variability for genes involved in nitrate nutrition
 
-We found that one of the main transporters of nitrate, *NRT2.1*, has a high level of inter-plant gene expression variability. 
-
-
-The aim of this project is to understand how the level of *NRT2.1* gene expression inter-plant variability is controlled, when differences are established between plants and what are the consequences of this variability.   
+We found that one of the main transporters of nitrate, *NRT2.1*, has a high level of inter-plant gene expression variability. The aim of this project is to understand how the level of *NRT2.1* gene expression inter-plant variability is controlled, when differences are established between plants and what are the consequences of this variability.   
 
 <br>
 
+<img style="float: left;" src="../images/Gif_movie_pNRT21LUC.gif" alt="" width="60%"/>
+Using luciferase imaging, we can follow *NRT2.1* promoter activity in 
 
-### Global approaches 
+
+### Phen  
 
 
 
