@@ -20,8 +20,10 @@ To know more about me, see my [short CV](files/CV.md)
 
 ## Ongoing research projects
 
-Our research projects focus on identifying the factors that regulate inter-plant variability and exploring its functional role. We currently have 3 projects ongoing:
 
+
+<img style="float: left;" src="images/Summary_projects.png" alt="" width="75%"/>  
+Our research projects focus on identifying the factors that regulate inter-plant variability and exploring its functional role. We currently have 3 projects ongoing.
 
 
 ### Regulation of inter-plant variability for genes involved in nitrate nutrition
