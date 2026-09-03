@@ -33,7 +33,7 @@ You can find a more detailed description of the project [here](files/NRT2.md)
 
 ### The role of chromatin in controlling the level of inter-plant variability
 
-Based on previous observation in [Cortijo et al., 2019](https://link.springer.com/article/10.15252/msb.20188591), the ail of this project is to explore the role of chromatin in regulating the level of inter-plant gene expression variability.  
+Based on previous observation in [Cortijo et al., 2019](https://link.springer.com/article/10.15252/msb.20188591), the aim of this project is to explore the role of chromatin in regulating the level of inter-plant gene expression variability.  
 You can find a more detailed description of the project [here](files/Chromatin.md)
 
 <br>
