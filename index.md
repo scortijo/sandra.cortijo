@@ -2,9 +2,10 @@
 
 ## About me
 
-blabla
+I am a molecular genomicist and work on the role and regulation of inter-plant variability. 
+Inter-plant variability 
 
-![Sandra Cortijo](images_SandraCortijo_photo.jpg)
+![Sandra Cortijo](images/SandraCortijo_photo.jpg)
 
 <br>
 
