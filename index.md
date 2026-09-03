@@ -22,7 +22,7 @@ To know more about me, see my [short CV](files/CV.md)
 
 Our research projects focus on identifying the factors that regulate inter-plant variability and exploring its functional role. We currently have 3 projects ongoing:
 
-<br>
+
 
 ### Regulation of inter-plant variability for genes involved in nitrate nutrition
 
