@@ -13,9 +13,9 @@ Figure from [Cortijo et al., 2019](https://link.springer.com/article/10.15252/ms
 
 ### Global approaches 
 
-We use transcriptomic and epigenomic approaches to analyse the role of chromatin in regulating 
+We use transcriptomic and epigenomic approaches to analyse the role of chromatin in regulating inter-plant variability in gene expression. We also develop statistical tools in order to analyse inter-plant variability as the existing tools are focused on the detection of differential expression or chromatin profile.
 
-Combined with classical genetics approaches and imaging, 
+Combined with classical genetics approaches and imaging, this gives us the power to analyse inter-plant variability at a global scale and not just at a few genes.
 
 
 ### Team members working on this project
@@ -27,7 +27,8 @@ Combined with classical genetics approaches and imaging,
   <div>
     <p> <br>
     <br>
-     The main person working on this project is Charlotte Lecuyer, a PhD student 
+     The main person working on this project is   
+     Charlotte Lecuyer, a PhD student 
      <br>
      <br> </p>
   </div>
