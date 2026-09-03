@@ -8,7 +8,7 @@ We found that one of the main transporters of nitrate, *NRT2.1*, has a high leve
 
 <br>
 
-<img style="float: left;" src="../images/Gif_movie_pNRT21LUC.gif" alt="" width="60%"/>
+<img style="float: left;" src="../images/Gif_movie_pNRT21LUC.gif" alt="" width="40%"/>
 Using luciferase imaging, we can follow *NRT2.1* promoter activity in individual plants as they grow. This way, we can characterize in depth the regulation of inter-plant variability for this gene. Live luciferase imaging is done in collaboration with [Hélène Javot](https://www.cite-des-energies.fr/chercheur/helene-javot/?lang=en).
 
 
