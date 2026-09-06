@@ -4,7 +4,7 @@
 
 ## Influence of the environment on the level of inter-plant variability
 
-While inter-plant variability is now recognized as widespread, observed across phenotypes such as plant size, flowering time, gene expression, and the abundance of proteins and metabolites, its response to environmental changes remains largely unexplored. The aim of this project is to characterize and understand the response of inter-plant variability to changes in the environment. 
+While inter-plant variability is now recognized as widespread and observed across phenotypes such as plant size, flowering time, gene expression, and the abundance of proteins and metabolites, its response to environmental changes remains largely unexplored. This project aims at characterizing and understanding the response of inter-plant variability to changes in the environment. 
 We recently discussed the need to define how inter-plant variability responds to environmental fluctuation in [this review.](https://www.sciencedirect.com/science/article/pii/S1369526625001475)
 
 <br>
