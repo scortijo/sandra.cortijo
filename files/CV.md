@@ -33,7 +33,7 @@ Supervisors: Vincent Colot and François Roudier
 
 
 ## Fundings 
-Since my recruitment at the CNRS, I obtained 500k€ to fund my research:
+Since my recruitment at CNRS, I obtained 500k€ to fund my research:
 **2026**    Young researcher breakthrough, National French Research Agency (ANR), **75k€**  
 **2022**    Young researcher award, National French Research Agency (ANR), **320k€**  
 **2021**    Stepping stone to ERC grant, I-Site (Montpellier), **105k€**  
@@ -54,7 +54,7 @@ Since my recruitment at the CNRS, I obtained 500k€ to fund my research:
 
 ## Collaborators
 I am always open to collaboration with anyone who wants to explore inter-plant variability in their biological phenomenon of interest.
-I am currently collaborating with:
+I am currently collaborate with:
 -  [James Locke](https://www.slcu.cam.ac.uk/research/locke-group), SLCU, Cambridge, UK  
 - [Hélène Javot](https://www.cite-des-energies.fr/chercheur/helene-javot/?lang=en), BIAM, Marseille, France 
 
@@ -64,8 +64,8 @@ I am currently collaborating with:
 
 
 ## Teaching
-**Since 2021** I teach an introduction to R (20 hrs) to bachelor students at the University of Montpellier. [Link to the intro to R course (in French)](https://scortijo.github.io/2025_L3_R/)  
-**Since 2024** I teach RNA-seq analysis (6 hrs) to master students at the University of Montpellier. [Link to the RNA-seq analysis course (in French)](https://scortijo.github.io/2025_M2_RNAseq/)
+**Since 2021**, introduction to R (20 hrs) to bachelor students at the University of Montpellier. [Link to the intro to R course (in French)](https://scortijo.github.io/2025_L3_R/)  
+**Since 2024**, RNA-seq analysis (6 hrs) to master students at the University of Montpellier. [Link to the RNA-seq analysis course (in French)](https://scortijo.github.io/2025_M2_RNAseq/)
 
 <br>
 
