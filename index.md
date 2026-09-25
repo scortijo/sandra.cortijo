@@ -13,7 +13,7 @@
 </div>
 
 
-To know more about me, see my [short CV](files/CV.md)
+To know more about me, see my [short CV](files/Sandra_Cortijo_CV.md)
 
 
 <br>
